@@ -1,0 +1,23 @@
+How to Install ZOOM on Ubuntu
+
+
+Method 1: Using Console/Terminal Window
+First, check your webcam and microphone, because the ZOOM conferencing application relies on these peripherals.
+
+Step 1: Update APT
+
+As always, update your APT first. Open the terminal window on your Ubuntu desktop and type in the following commands.
+  $ sudo apt update
+  $ sudo apt upgrade
+  
+Step 2: Install Zoom-Client
+
+Execute the following command in your terminal window to install the ZOOM client. You will be asked for a password, as the install requires root privileges.
+
+  $ sudo snap install zoom-client
+
+Step 3: Launch ZOOM
+
+In your terminal window, execute the following command to start using ZOOM.
+
+  $ zoom-client
