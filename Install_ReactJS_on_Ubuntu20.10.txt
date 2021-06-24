@@ -1,0 +1,14 @@
+
+
+How to Install ReactJS on Ubuntu 20.10
+
+  sudo apt install npm
+  npm --version
+  node --version
+  sudo npm -g install create-react-app
+  create-react-app --version
+  create-react-app helloworld
+  cd helloworld
+  npm start
+ 
+I Thinks it's works fine <3
