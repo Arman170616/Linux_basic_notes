@@ -1,0 +1,5 @@
+How to install TKinter on VScode with Ubuntu 20.04 LTS
+
+  sudo apt-get update
+  sudo apt-get upgrade
+  sudo apt-get install python3-tk
