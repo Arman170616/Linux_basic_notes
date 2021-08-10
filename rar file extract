@@ -1,0 +1,6 @@
+// first download unrar
+sudo apt install unrar
+// after the unrar installed you can unrar your file with this command
+unrar e filename.rar
+// and the next command if you wont your file with the orginal directory
+unrar x filename.rar
